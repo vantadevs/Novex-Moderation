@@ -1,0 +1,10 @@
+{
+  "title": "Novex Market | Live Stock",
+  "description": "Browse our currently available products and services.",
+  "categories": [
+    { "name": "Digital Products", "emoji": "💻", "products": [] },
+    { "name": "Discord Services", "emoji": "🤖", "products": [] },
+    { "name": "Roblox Services", "emoji": "🎮", "products": [] },
+    { "name": "Account Services", "emoji": "🔐", "products": [] }
+  ]
+}
