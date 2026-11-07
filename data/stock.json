@@ -2,9 +2,41 @@
   "title": "Novex Market | Live Stock",
   "description": "Browse our currently available products and services.",
   "categories": [
-    { "name": "Digital Products", "emoji": "💻", "products": [] },
-    { "name": "Discord Services", "emoji": "🤖", "products": [] },
-    { "name": "Roblox Services", "emoji": "🎮", "products": [] },
-    { "name": "Account Services", "emoji": "🔐", "products": [] }
+    {
+      "name": "Digital Products",
+      "emoji": "💻",
+      "products": []
+    },
+    {
+      "name": "Discord Services",
+      "emoji": "🤖",
+      "products": [
+        {
+          "name": "Nitro Boosts (1 Month & 3 Months)",
+          "description": "8x–28x boost packages available. Choose between 1-month and 3-month durations. 200+ boosts available across these options.",
+          "price": "Contact for price",
+          "stock": 200,
+          "status": "Available"
+        }
+      ]
+    },
+    {
+      "name": "Roblox Services",
+      "emoji": "🎮",
+      "products": [
+        {
+          "name": "Roblox Accounts (2006–2014)",
+          "description": "Roblox accounts from creation years 2006 through 2014. 600+ accounts available.",
+          "price": "Contact for price",
+          "stock": 600,
+          "status": "Available"
+        }
+      ]
+    },
+    {
+      "name": "Account Services",
+      "emoji": "🔐",
+      "products": []
+    }
   ]
 }
